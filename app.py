@@ -1,9 +1,5 @@
-## Kai inicijuojame klase sukuriame DB jeigu jos nera,   metodai basic CRUD operacijos
 import sqlite3
 from sqlite3 import DatabaseError
-
-
-
 
 
 class SqlDatabase:
